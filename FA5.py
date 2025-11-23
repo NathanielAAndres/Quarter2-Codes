@@ -15,7 +15,8 @@ destinations[1] = new_dest_2
 new_dest_5 = input("Enter a new destination for position 5: ")
 destinations[4] = new_dest_5
 
-print("Your updated travel destinations are:")
+print("Updated Travel Itinerary:")
 for dest in destinations:
     print(dest)
+
 
